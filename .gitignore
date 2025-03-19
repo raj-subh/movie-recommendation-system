@@ -1,0 +1,8 @@
+# Ignore .pkl files
+*.pkl
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
